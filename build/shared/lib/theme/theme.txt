@@ -10,7 +10,7 @@
 
 # GUI - STATUS
 status.notice.fgcolor = #002325
-status.notice.bgcolor = #17A1A5
+status.notice.bgcolor = #FF8500
 status.error.fgcolor = #FFFFFF
 status.error.bgcolor = #E34C00
 status.edit.fgcolor = #000000
@@ -19,7 +19,7 @@ status.font = SansSerif,plain,12
 
 # GUI - TABS
 # (tab images are stored in the lib/theme folder)
-header.bgcolor = #17A1A5
+header.bgcolor = #FF9219
 header.text.selected.color = #005B5B
 header.text.unselected.color = #007e82
 header.text.font = SansSerif,plain,12
@@ -32,7 +32,7 @@ console.output.color = #eeeeee
 console.error.color = #E34C00
 
 # GUI - BUTTONS
-buttons.bgcolor = #006468
+buttons.bgcolor = #B26B1C
 buttons.status.font = SansSerif,plain,12
 buttons.status.color = #ffffff
 
