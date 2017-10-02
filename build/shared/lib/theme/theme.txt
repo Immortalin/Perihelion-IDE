@@ -53,7 +53,7 @@ plotting.graphcolor.07 = #000000
 
 # GUI - LINESTATUS   
 linestatus.color = #ffffff
-linestatus.bgcolor = #006468
+linestatus.bgcolor = #B26B1C
 
 # EDITOR - DETAILS
 
